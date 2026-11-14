@@ -1,0 +1,122 @@
+{
+  "name": "Ahmad Dhio Baehaqi",
+  "initials": "ADB",
+  "headline": "Lulusan S1 Teknik Informatika",
+  "education_label": "S1 Teknik Informatika · 2026",
+  "summary": "Berbekal pendidikan Teknik Informatika serta pengalaman di bidang proyek, administrasi gudang, teknologi informasi, dan teknisi lapangan.",
+  "about": "Saya adalah lulusan S1 Teknik Informatika dari Sekolah Tinggi Teknologi Mandala. Pengalaman kerja dan magang saya mencakup pengelolaan proyek, administrasi gudang, divisi teknologi informasi, serta pekerjaan teknisi lapangan. Saya menyusun portofolio ini sebagai ringkasan latar belakang, pengalaman, dan proyek yang dapat ditinjau lebih lanjut.",
+  "education": [
+    {
+      "institution": "Sekolah Tinggi Teknologi Mandala",
+      "degree": "S1 Teknik Informatika",
+      "period": "2026",
+      "gpa": "3,34",
+      "gpa_scale": "dari 4,00"
+    }
+  ],
+  "experience": [
+    {
+      "organization": "ARK Project",
+      "role": "Project Owner & Admin Gudang",
+      "period": "2022–2024",
+      "description": "Mengelola proyek sekaligus mendukung administrasi dan operasional gudang."
+    },
+    {
+      "organization": "PT Pindad",
+      "role": "Peserta Magang, Divisi TI",
+      "period": "Magang",
+      "description": "Pengalaman magang di Divisi Teknologi Informasi PT Pindad."
+    },
+    {
+      "organization": "PT Simpar Teknologi",
+      "role": "Peserta Magang, Teknisi Lapangan",
+      "period": "Magang",
+      "description": "Pengalaman magang sebagai teknisi lapangan."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Web Development",
+      "icon": "code",
+      "items": ["Dasar teknologi informasi", "Dukungan teknis"]
+    },
+    {
+      "category": "Administrasi dan Operasional",
+      "icon": "operations",
+      "items": ["Administrasi data", "Dokumentasi", "Pengelolaan inventaris", "Operasional gudang"]
+    },
+    {
+      "category": "Tools dan Teknologi",
+      "icon": "tools",
+      "items": ["Pemahaman perangkat lunak dan perangkat keras", "Dukungan teknis"]
+    },
+    {
+      "category": "Soft Skills",
+      "icon": "people",
+      "items": ["Komunikasi", "Kolaborasi", "Ketelitian", "Tanggung jawab"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "POS Kuliner AI",
+      "category": "Sistem point of sale",
+      "image": "assets/pos-kuliner.jpg.jpeg",
+      "alt": "Tangkapan layar proyek POS Kuliner AI",
+      "tags": ["Point of sale", "Kuliner", "AI (nama proyek)"],
+      "description": "Proyek bertema point of sale untuk kebutuhan kuliner.",
+      "details": "Nama proyek menyebut AI; rincian fitur dan implementasi tidak dicantumkan pada halaman ini."
+    },
+    {
+      "name": "CASHLY",
+      "category": "Proyek portofolio",
+      "image": "assets/cashly.jpg.jpeg",
+      "alt": "Tangkapan layar proyek CASHLY",
+      "tags": ["CASHLY", "Teknologi belum dicantumkan"],
+      "description": "Salah satu proyek utama dalam portofolio.",
+      "details": "Informasi ruang lingkup, fitur, dan teknologi proyek belum dicantumkan pada halaman ini."
+    },
+    {
+      "name": "BREWHAUS",
+      "category": "Proyek portofolio",
+      "image": "assets/brewhaus.jpg.jpeg",
+      "alt": "Tangkapan layar proyek BREWHAUS",
+      "tags": ["BREWHAUS", "Teknologi belum dicantumkan"],
+      "description": "Salah satu proyek utama dalam portofolio.",
+      "details": "Informasi ruang lingkup, fitur, dan teknologi proyek belum dicantumkan pada halaman ini."
+    },
+    {
+      "name": "Kasir Toko",
+      "category": "Proyek tambahan",
+      "image": null,
+      "alt": null,
+      "tags": [],
+      "description": "Proyek tambahan dalam portofolio; tangkapan layar dan rincian teknis belum disertakan.",
+      "details": "Tidak ada pratinjau visual atau keterangan status produksi yang tersedia."
+    },
+    {
+      "name": "Rello The Cafe House",
+      "category": "Proyek tambahan",
+      "image": null,
+      "alt": null,
+      "tags": [],
+      "description": "Proyek tambahan dalam portofolio; tangkapan layar dan rincian teknis belum disertakan.",
+      "details": "Tidak ada pratinjau visual atau keterangan status produksi yang tersedia."
+    },
+    {
+      "name": "Cordova Living House",
+      "category": "Proyek tambahan",
+      "image": null,
+      "alt": null,
+      "tags": [],
+      "description": "Proyek tambahan dalam portofolio; tangkapan layar dan rincian teknis belum disertakan.",
+      "details": "Tidak ada pratinjau visual atau keterangan status produksi yang tersedia."
+    }
+  ],
+  "contact": {
+    "whatsapp": "+628139482683",
+    "whatsapp_url": "https://wa.me/628139482683",
+    "email": "ahmaddhiob@gmail.com",
+    "instagram": "@ahmad_.baehaqi",
+    "instagram_url": "https://www.instagram.com/ahmad_.baehaqi/"
+  }
+}
